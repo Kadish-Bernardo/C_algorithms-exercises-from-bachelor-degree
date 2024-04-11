@@ -21,6 +21,11 @@
 </div>
 
 <div>
+  <h2> Question Book </h2> 
+  <p> Notebook with 50 questions, working with strings, characters, int, float, double and other types of variables </p>
+</div>
+
+<div>
   <h2> How the repository files and the files that make it up are organized </h2> 
 </div>
 <ul>
