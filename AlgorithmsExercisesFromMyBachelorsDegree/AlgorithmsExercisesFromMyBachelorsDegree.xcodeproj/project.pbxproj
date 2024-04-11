@@ -8,14 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		40292B6B2BC80F6A005E6F69 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 40292B6A2BC80F6A005E6F69 /* main.c */; };
-		40292B922BC8127B005E6F69 /* 8_exercise.c in Sources */ = {isa = PBXBuildFile; fileRef = 40292B892BC8127B005E6F69 /* 8_exercise.c */; };
-		40292B932BC8127B005E6F69 /* 6_exercise.c in Sources */ = {isa = PBXBuildFile; fileRef = 40292B8A2BC8127B005E6F69 /* 6_exercise.c */; };
-		40292B952BC8127B005E6F69 /* 3_exercise.c in Sources */ = {isa = PBXBuildFile; fileRef = 40292B8C2BC8127B005E6F69 /* 3_exercise.c */; };
-		40292B962BC8127B005E6F69 /* 2_exercise.c in Sources */ = {isa = PBXBuildFile; fileRef = 40292B8D2BC8127B005E6F69 /* 2_exercise.c */; };
-		40292B972BC8127B005E6F69 /* 5_exercise.c in Sources */ = {isa = PBXBuildFile; fileRef = 40292B8E2BC8127B005E6F69 /* 5_exercise.c */; };
-		40292B982BC8127B005E6F69 /* 4_exercise.c in Sources */ = {isa = PBXBuildFile; fileRef = 40292B8F2BC8127B005E6F69 /* 4_exercise.c */; };
-		40292B992BC8127B005E6F69 /* 7_exercise.c in Sources */ = {isa = PBXBuildFile; fileRef = 40292B902BC8127B005E6F69 /* 7_exercise.c */; };
-		40292B9A2BC8127B005E6F69 /* 1_exercise.c in Sources */ = {isa = PBXBuildFile; fileRef = 40292B912BC8127B005E6F69 /* 1_exercise.c */; };
+		40292B9D2BC814B9005E6F69 /* 1_exercise.c in Sources */ = {isa = PBXBuildFile; fileRef = 40292B9C2BC814B9005E6F69 /* 1_exercise.c */; };
+		40292B9F2BC81503005E6F69 /* 2_exercise.c in Sources */ = {isa = PBXBuildFile; fileRef = 40292B9E2BC81503005E6F69 /* 2_exercise.c */; };
+		40292BA12BC81523005E6F69 /* 3_exercise.c in Sources */ = {isa = PBXBuildFile; fileRef = 40292BA02BC81523005E6F69 /* 3_exercise.c */; };
+		40292BA32BC8153C005E6F69 /* 4_exercise.c in Sources */ = {isa = PBXBuildFile; fileRef = 40292BA22BC8153C005E6F69 /* 4_exercise.c */; };
+		40292BA52BC81552005E6F69 /* 5_exercise.c in Sources */ = {isa = PBXBuildFile; fileRef = 40292BA42BC81552005E6F69 /* 5_exercise.c */; };
+		40292BA72BC81567005E6F69 /* 6_exercise.c in Sources */ = {isa = PBXBuildFile; fileRef = 40292BA62BC81567005E6F69 /* 6_exercise.c */; };
+		40292BA92BC8157D005E6F69 /* 7_exercise.c in Sources */ = {isa = PBXBuildFile; fileRef = 40292BA82BC8157D005E6F69 /* 7_exercise.c */; };
+		40292BAB2BC81592005E6F69 /* 8_exercise.c in Sources */ = {isa = PBXBuildFile; fileRef = 40292BAA2BC81592005E6F69 /* 8_exercise.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,14 +34,14 @@
 		40292B672BC80F6A005E6F69 /* AlgorithmsExercisesFromMyBachelorsDegree */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlgorithmsExercisesFromMyBachelorsDegree; sourceTree = BUILT_PRODUCTS_DIR; };
 		40292B6A2BC80F6A005E6F69 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		40292B862BC811C5005E6F69 /* exercisesHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = exercisesHeader.h; sourceTree = "<group>"; };
-		40292B892BC8127B005E6F69 /* 8_exercise.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = 8_exercise.c; path = ../../../../../../../../../../Downloads/exercises/8_exercise.c; sourceTree = "<group>"; };
-		40292B8A2BC8127B005E6F69 /* 6_exercise.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = 6_exercise.c; path = ../../../../../../../../../../Downloads/exercises/6_exercise.c; sourceTree = "<group>"; };
-		40292B8C2BC8127B005E6F69 /* 3_exercise.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = 3_exercise.c; path = ../../../../../../../../../../Downloads/exercises/3_exercise.c; sourceTree = "<group>"; };
-		40292B8D2BC8127B005E6F69 /* 2_exercise.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = 2_exercise.c; path = ../../../../../../../../../../Downloads/exercises/2_exercise.c; sourceTree = "<group>"; };
-		40292B8E2BC8127B005E6F69 /* 5_exercise.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = 5_exercise.c; path = ../../../../../../../../../../Downloads/exercises/5_exercise.c; sourceTree = "<group>"; };
-		40292B8F2BC8127B005E6F69 /* 4_exercise.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = 4_exercise.c; path = ../../../../../../../../../../Downloads/exercises/4_exercise.c; sourceTree = "<group>"; };
-		40292B902BC8127B005E6F69 /* 7_exercise.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = 7_exercise.c; path = ../../../../../../../../../../Downloads/exercises/7_exercise.c; sourceTree = "<group>"; };
-		40292B912BC8127B005E6F69 /* 1_exercise.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = 1_exercise.c; path = ../../../../../../../../../../Downloads/exercises/1_exercise.c; sourceTree = "<group>"; };
+		40292B9C2BC814B9005E6F69 /* 1_exercise.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1_exercise.c; sourceTree = "<group>"; };
+		40292B9E2BC81503005E6F69 /* 2_exercise.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2_exercise.c; sourceTree = "<group>"; };
+		40292BA02BC81523005E6F69 /* 3_exercise.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 3_exercise.c; sourceTree = "<group>"; };
+		40292BA22BC8153C005E6F69 /* 4_exercise.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 4_exercise.c; sourceTree = "<group>"; };
+		40292BA42BC81552005E6F69 /* 5_exercise.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 5_exercise.c; sourceTree = "<group>"; };
+		40292BA62BC81567005E6F69 /* 6_exercise.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 6_exercise.c; sourceTree = "<group>"; };
+		40292BA82BC8157D005E6F69 /* 7_exercise.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 7_exercise.c; sourceTree = "<group>"; };
+		40292BAA2BC81592005E6F69 /* 8_exercise.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 8_exercise.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,7 +75,7 @@
 			isa = PBXGroup;
 			children = (
 				40292B6A2BC80F6A005E6F69 /* main.c */,
-				40292B882BC81218005E6F69 /* Exercises */,
+				40292B9B2BC8148D005E6F69 /* Exercises */,
 				40292B872BC811EA005E6F69 /* Header */,
 			);
 			path = AlgorithmsExercisesFromMyBachelorsDegree;
@@ -89,17 +89,17 @@
 			path = Header;
 			sourceTree = "<group>";
 		};
-		40292B882BC81218005E6F69 /* Exercises */ = {
+		40292B9B2BC8148D005E6F69 /* Exercises */ = {
 			isa = PBXGroup;
 			children = (
-				40292B912BC8127B005E6F69 /* 1_exercise.c */,
-				40292B8D2BC8127B005E6F69 /* 2_exercise.c */,
-				40292B8C2BC8127B005E6F69 /* 3_exercise.c */,
-				40292B8F2BC8127B005E6F69 /* 4_exercise.c */,
-				40292B8E2BC8127B005E6F69 /* 5_exercise.c */,
-				40292B8A2BC8127B005E6F69 /* 6_exercise.c */,
-				40292B902BC8127B005E6F69 /* 7_exercise.c */,
-				40292B892BC8127B005E6F69 /* 8_exercise.c */,
+				40292B9C2BC814B9005E6F69 /* 1_exercise.c */,
+				40292B9E2BC81503005E6F69 /* 2_exercise.c */,
+				40292BA02BC81523005E6F69 /* 3_exercise.c */,
+				40292BA22BC8153C005E6F69 /* 4_exercise.c */,
+				40292BA42BC81552005E6F69 /* 5_exercise.c */,
+				40292BA62BC81567005E6F69 /* 6_exercise.c */,
+				40292BA82BC8157D005E6F69 /* 7_exercise.c */,
+				40292BAA2BC81592005E6F69 /* 8_exercise.c */,
 			);
 			path = Exercises;
 			sourceTree = "<group>";
@@ -161,15 +161,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				40292B982BC8127B005E6F69 /* 4_exercise.c in Sources */,
-				40292B922BC8127B005E6F69 /* 8_exercise.c in Sources */,
-				40292B972BC8127B005E6F69 /* 5_exercise.c in Sources */,
-				40292B952BC8127B005E6F69 /* 3_exercise.c in Sources */,
-				40292B932BC8127B005E6F69 /* 6_exercise.c in Sources */,
-				40292B992BC8127B005E6F69 /* 7_exercise.c in Sources */,
-				40292B962BC8127B005E6F69 /* 2_exercise.c in Sources */,
+				40292BA32BC8153C005E6F69 /* 4_exercise.c in Sources */,
+				40292BA72BC81567005E6F69 /* 6_exercise.c in Sources */,
+				40292BAB2BC81592005E6F69 /* 8_exercise.c in Sources */,
 				40292B6B2BC80F6A005E6F69 /* main.c in Sources */,
-				40292B9A2BC8127B005E6F69 /* 1_exercise.c in Sources */,
+				40292BA92BC8157D005E6F69 /* 7_exercise.c in Sources */,
+				40292B9F2BC81503005E6F69 /* 2_exercise.c in Sources */,
+				40292BA52BC81552005E6F69 /* 5_exercise.c in Sources */,
+				40292B9D2BC814B9005E6F69 /* 1_exercise.c in Sources */,
+				40292BA12BC81523005E6F69 /* 3_exercise.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
