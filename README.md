@@ -1,6 +1,6 @@
 <div>
   <h1> Algorithm exercises from my bachelor's degree 🧑🏻‍💻📚 <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/></h1> 
-  
+  <p> In this project, I will be working on my programming logic, focusing exclusively on the decision structure by <strong> IF & ELSE </strong>. Additionally, I will be sharing these concepts for anyone who wants to review basic concepts of this framework or wants to learn a little about it. This is very initial content, with the real objective of facilitating learning for those who face difficulties and/or are starting to study programming or just want to start studying programming. Where I intend to spread knowledge and improve my own programming logic because I firmly believe that the most effective way to learn something is by sharing knowledge! </p><br>
   <p> The idea in this project is to work only with the <strong>C</strong> programming language, but I will replicate it to other languages that I use or want to create affinity with in the near future and I will leave the repository link below 👇🏽 </p>
 </div>
 
