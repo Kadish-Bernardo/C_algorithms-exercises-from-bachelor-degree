@@ -1,5 +1,5 @@
 <div>
-  <h1> C_algorithm-exercises-from-my-bachelors-degree 🧑🏻‍💻📚 <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/></h1> 
+  <h1> Algorithm exercises from my bachelor's degree 🧑🏻‍💻📚 <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/></h1> 
   
   <p> The idea in this project is to work only with the <strong>C</strong> programming language, but I will replicate it to other languages that I use or want to create affinity with in the near future and I will leave the repository link below 👇🏽 </p>
 </div>
