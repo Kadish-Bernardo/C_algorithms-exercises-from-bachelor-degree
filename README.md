@@ -24,9 +24,9 @@
   <h2> How the repository files and the files that make it up are organized </h2> 
 </div>
 <ul>
-  <li><a href="https://github.com/Kadish-Bernardo/C_algorithm-exercises-decision-commands-if-else/tree/main/algorithm-exercises-decision-commands-if-else/algorithm-exercises-decision-commands-if-else/exercises"> Exercise Files </a></li>
-  <li><a href="https://github.com/Kadish-Bernardo/C_algorithm-exercises-decision-commands-if-else/blob/main/algorithm-exercises-decision-commands-if-else/algorithm-exercises-decision-commands-if-else/headers/exerciseHeaders.h"> Header File </a></li>
-  <li><a href="https://github.com/Kadish-Bernardo/C_algorithm-exercises-decision-commands-if-else/blob/main/algorithm-exercises-decision-commands-if-else/algorithm-exercises-decision-commands-if-else/main.c"> Main File </a></li>    
+  <li><a href="https://github.com/Kadish-Bernardo/C_algorithms-exercises-from-my-bachelor-degree/tree/main/AlgorithmsExercisesFromMyBachelorsDegree/AlgorithmsExercisesFromMyBachelorsDegree/Exercises"> Exercise Files </a></li>
+  <li><a href="https://github.com/Kadish-Bernardo/C_algorithms-exercises-from-my-bachelor-degree/tree/main/AlgorithmsExercisesFromMyBachelorsDegree/AlgorithmsExercisesFromMyBachelorsDegree/Header"> Header File </a></li>
+  <li><a href="https://github.com/Kadish-Bernardo/C_algorithms-exercises-from-my-bachelor-degree/blob/main/AlgorithmsExercisesFromMyBachelorsDegree/AlgorithmsExercisesFromMyBachelorsDegree/main.c"> Main File </a></li>    
 </ul>
 
 <!-- 
